@@ -1,0 +1,15 @@
+# Este repo vive dentro de una config de Neovim, pero solo versiona
+# el plugin de templates y sus assets.
+*
+
+!.gitignore
+!README.md
+!LICENSE
+
+!lua/
+!lua/handlebars-templates/
+!lua/handlebars-templates/**
+
+!templates/
+!templates/handlebars/
+!templates/handlebars/**
